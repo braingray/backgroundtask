@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Eigengrau.BackgroundTask</Title>
+        <Authors>Chris Cummerford</Authors>
+        <Description>A small package to create asynchronous timers using the periodic timer class.</Description>
+        <PackageProjectUrl>https://github.com/braingray/backgroundtask</PackageProjectUrl>
+        <PackageTags>timer async asynchronous periodic periodictimer eigengrau</PackageTags>
+        <PackageReleaseNotes>A small package to create asynchronous timers using the periodic timer class.</PackageReleaseNotes>
+        <PackageLicenseUrl>https://raw.githubusercontent.com/braingray/backgroundtask/main/LICENSE</PackageLicenseUrl>
+    </PropertyGroup>
+
+</Project>
