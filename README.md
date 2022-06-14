@@ -14,7 +14,7 @@ var backgroundTask = new BackgroundTask(MyAction, 1000);
 
 backgroundTask.Start();
 
-Console.ReadyKey();
+Console.ReadKey();
 
 backgroundTask.StopAsync();
 ```
